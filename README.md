@@ -1,4 +1,4 @@
-Adult AHDH: Diagnosis
+Adult AHDH: Monitoring the response to treatment
 ============================================
 A living systematic review
 
