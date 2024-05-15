@@ -4,7 +4,7 @@ A living systematic review
 
 Short url: https://openmetaanalysis.github.io/Adult-ADHD/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis, based on limited data in a single study, suggests that the Adult ADHD Self-Report Scale (ASRS) is better than then Wender Utah Rating Scale (WURS) for monitoring the response to treatment. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 81% across treatments, but cannot be measured for each scale as only a single study is available. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 
@@ -24,8 +24,11 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Forest plots](../master/files/forest-plots) ([spreadsheets with source data](files/data))
 * [Network plots](../master/files/network) (optional)
 
-The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcomes is below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
+
+The forest plot for the ASRS is below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+![Principle results](files/forest-plots/forest-plot-ASRS-MCID-Parallel-studies.png)
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
