@@ -1,10 +1,10 @@
-Adult AHDH: Monitoring the response to treatment (under construction)
+scaleAdult AHDH: Monitoring the response to treatment (under construction)
 ============================================
 A living systematic review
 
 Short url: https://openmetaanalysis.github.io/Adult-ADHD/
 
-**Clinical summary:** This meta-analysis, based on limited data in a single study, suggests that the Adult ADHD Self-Report Scale (ASRS) is better than then Wender Utah Rating Scale (WURS) for monitoring the response to treatment. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 81% across studies, but cannot be measured for each scale as only a single study is available. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis, based on limited data in a single study, suggests that the Adult ADHD Self-Report Scale (ASRS) is better than then Wender Utah Rating Scale (WURS) for monitoring the response to treatment. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 81% across studies, but cannot be measured for each scale as only a single study is available per scale. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 
